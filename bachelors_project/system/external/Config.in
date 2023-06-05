@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_my_rpi4_external_PATH/package/example/Config.in"
